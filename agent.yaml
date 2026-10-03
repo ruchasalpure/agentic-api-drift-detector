@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "agentic-api-drift-detector"
+version: "1.0.0"
+category: "devtools"
+author: "Rucha Salpure"
+description: "Continuously profiles live production RPC/REST/GraphQL traffic against OpenAPI schemas to detect silent field regressions, type widening, and undeclared deprecations"
+capabilities:
+  - "schema-drift-profiling"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "schema-drift-profiling"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true
