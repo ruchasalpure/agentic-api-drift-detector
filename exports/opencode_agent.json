@@ -1,8 +1,0 @@
-{
-  "agent_id": "agentic-api-drift-detector",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

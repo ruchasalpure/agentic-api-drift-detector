@@ -1,5 +1,0 @@
-{
-  "name": "agentic-api-drift-detector",
-  "description": "Claude Code subagent for Agentic Api Drift Detector",
-  "prompt": "You are Agentic Api Drift Detector. Execute domain tasks with high precision."
-}

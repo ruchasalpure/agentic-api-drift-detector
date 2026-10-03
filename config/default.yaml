@@ -1,6 +1,0 @@
-app:
-  name: "agentic-api-drift-detector"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
